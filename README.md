@@ -8,7 +8,7 @@
   * name:*string*
 * Author
   * first_name:*string*
-  * last_name:*string*
+  * last_name:*sting*
   * age:*date*
 * Book
   * title:*string*
